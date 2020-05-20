@@ -11,7 +11,6 @@ def initialize(brand)
     @condition = "new"
   end
 
-  Shoe.condition = "new"
   
   
 end
