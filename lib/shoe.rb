@@ -10,8 +10,8 @@ def initialize(brand)
     puts "Your shoe is as good as new!"
   end
   
-  shoe.cobble
-  shoe.condition = "new"
+  Shoe.cobble
+  Shoe.condition = "new"
   
   
 end
